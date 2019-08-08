@@ -11,8 +11,7 @@ Tag e leitor RFIDcostumam ser utilizados para controle de acesso e identificaç�
 *Kit Leitor Rfid Mfrc522 Mifare
 
 # Instalação
-<img src="https://github.com/Arthur-Alexandre/Arduino-Uno/blob/master/images/Arduino_Uno.jpg" height="200" width="200">
-
+<img src="https://github.com/Arthur-Alexandre/Arduino-Uno/blob/master/images/Modulo%20RFID%20Display%2016x21.jpg" height="200" width="200">
 
 # Uso
 *Aproximando o cartão ou o chaveiro ao sensor, a porta será destrancada.
