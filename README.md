@@ -18,6 +18,3 @@ Tag e leitor RFIDcostumam ser utilizados para controle de acesso e identificaç�
 
 # Créditos
 Criado/adaptado por Arthur Alexandre da Silva Santos 
-
-# Licença 
-Licença MIT
